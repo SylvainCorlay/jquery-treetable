@@ -1,0 +1,26 @@
+{
+  "name": "jquery-treetable",
+  "version": "3.2.1",
+  "description": "Tree table",
+  "main": "jquery.treetable.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvainCorlay/jquery-treetable.git"
+  },
+  "keywords": [
+    "Tree",
+    "table"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SylvainCorlay/jquery-treetable/issues"
+  },
+  "homepage": "https://github.com/SylvainCorlay/jquery-treetable#readme"
+}
